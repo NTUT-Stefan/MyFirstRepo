@@ -24,6 +24,7 @@ For more information to generate a key please look up [here](https://developers.
 ## Contributors
 
 Stefan Liao
+
 Vincent Chung
 
 ## Contributing
