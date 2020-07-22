@@ -1,13 +1,15 @@
 from datetime import datetime
 import time
 import sys
-from Trip.Trip import Trip
+from Trip import Trip
 import Trip.CrudTrip as crud
 
 
 
 def main():
-    pass
+    with open('API_KEY','r') as f:
+        API_KEY = f.readline()
+    print(API_KEY)
 
 if __name__ == "__main__":
     main()

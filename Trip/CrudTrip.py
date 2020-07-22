@@ -3,6 +3,7 @@ import json
 # unfinished
 
 def DiaryOutputToJson(diarys):
+    pass
     # datas = []
     # for d in diarys:
     #     datas.append({
