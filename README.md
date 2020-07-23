@@ -17,7 +17,7 @@ python main.py
 
 If you want to access to the google place API, you should add a file called "API_KEY" on the top level by yourself. The main.py will read the API key then access the google server.
 
-![image of example](https://imgur.com/a/WG4c3W2)
+![image of example](https://github.com/NTUT-Stefan/TripToTaiwan-app/blob/master/screenshot_api_tutorial.png)
 
 For more information to generate a key please look up [here](https://developers.google.com/maps/documentation?hl=zh-tw)
 
