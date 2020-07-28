@@ -24,11 +24,11 @@ def main():
 
     # 這是nearby search
 
-    gmaps = googlemaps.Client(key = 'AIzaSyCe0qz12Ciy0JniIDZQzww6zl0L77A-qGM')
+    gmaps = googlemaps.Client(key = '')
     params = {
             'location': '25.033018,121.562801',
             'radius':  '1000',
-            'key': 'AIzaSyCe0qz12Ciy0JniIDZQzww6zl0L77A-qGM',
+            'key': '',
             'keyword': 'food',
             'language': 'zh-TW'
         }
